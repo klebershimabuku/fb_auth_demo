@@ -12,4 +12,6 @@ You can see a tutorial for this [here](http://blog.yangtheman.com/2012/02/09/fac
 
 - Run the migrations.
 
+- Run `bundle install` to install all necessary dependencies.
+
 - Setup `omniauth.rb` with your facebook app credentials. (app id and app secret)
